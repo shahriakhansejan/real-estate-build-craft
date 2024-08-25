@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Modern Office Space in Downtown",
+      "segment_name": "Office Buildings",
+      "description": "This contemporary office space is located in the heart of the business district, providing a prime location for corporate offices. With a sleek and modern design, this office features open-plan workspaces that encourage collaboration and creativity. The space includes a large reception area, several conference rooms equipped with the latest audiovisual technology, and a well-appointed pantry. The building offers high-speed internet connectivity and access to a range of amenities, including nearby cafes and restaurants. Its central location ensures excellent transport links, making it convenient for both employees and clients. The office is situated in a prestigious building with impressive architecture, providing a professional and stylish environment. The space is ideal for companies looking to establish a prominent presence in the city and benefit from the vibrant business ecosystem of the downtown area.",
+      "price": "$6,000/month",
+      "status": "Rent",
+      "area": "4000 sq ft",
+      "location": "Downtown, City Center",
+      "facilities": ["Conference Room", "Pantry", "Reception Area"],
+      "image": "https://i.postimg.cc/RF2QT80X/pexels-cadomaestro-1170412.jpg"
+    },
+    {
+      "id": 2,
+      "estate_title": "Spacious Warehouse in Industrial Area",
+      "segment_name": "Warehouses",
+      "description": "This expansive warehouse is situated in a prime industrial area, offering ample space for manufacturing, storage, or logistics operations. The facility boasts a generous floor area, allowing for flexible layout options to accommodate various industrial needs. It features high ceilings, a large storage area, and multiple loading docks to facilitate efficient logistics and distribution processes. The warehouse is equipped with modern security systems and has an integrated office space for administrative functions. Its location within a well-established industrial zone ensures easy access to major transport routes and a supportive business environment. The property is ideal for businesses seeking a functional and strategically positioned facility to support their operational needs. Its robust infrastructure and accessibility make it a valuable asset for any industrial operation.",
+      "price": "$2,000/month",
+      "status": "Rent",
+      "area": "5000 sq ft",
+      "location": "Industrial Zone, Metro City",
+      "facilities": ["Storage Area", "Loading Dock", "Office Space"],
+      "image": "https://i.postimg.cc/kMty5njZ/pexels-divinetechygirl-1181264.jpg"
+    },
+    {
+      "id": 3,
+      "estate_title": "Retail Space in Shopping Mall",
+      "segment_name": "Retail Spaces",
+      "description": "This premium retail space is located in a bustling shopping mall, making it an ideal location for high-end retail stores or boutique shops. The space is designed to attract high foot traffic and enhance customer engagement with its strategic placement within the mall. It features an open and flexible layout that can be customized to suit various retail needs. The property includes a dedicated storage room for inventory management and modern restroom facilities for customer convenience. The mall itself is a popular shopping destination with a diverse mix of stores, dining options, and entertainment facilities, providing an excellent environment for retail businesses to thrive. With its prime location, this retail space offers visibility and accessibility, making it a sought-after opportunity for retailers looking to capture a dynamic customer base.",
+      "price": "$500,000",
+      "status": "Sell",
+      "area": "2500 sq ft",
+      "location": "Central Mall, Metro City",
+      "facilities": ["Showroom", "Storage Room", "Restroom"],
+      "image": "https://i.postimg.cc/vHFtgpkm/pexels-divinetechygirl-1181394.jpg"
+    },
+    {
+      "id": 4,
+      "estate_title": "Industrial Factory with Large Lot",
+      "segment_name": "Industrial Facilities",
+      "description": "This large industrial factory is located in an extensive industrial park, providing ample space for heavy manufacturing and operational activities. The facility features a substantial floor area, allowing for a variety of industrial processes and storage needs. The property includes multiple loading docks, a comprehensive manufacturing area, and integrated office space for administrative functions. It is equipped with robust infrastructure to support industrial operations, including high-capacity utilities and advanced safety systems. The large lot offers additional space for logistics, parking, and future expansions. Situated in a well-connected industrial zone, the factory benefits from easy access to major transport routes and a supportive industrial community. This property is ideal for businesses requiring a versatile and well-equipped facility for large-scale operations.",
+      "price": "$2,000,000",
+      "status": "Sell",
+      "area": "30000 sq ft",
+      "location": "Industrial Park, Outskirts",
+      "facilities": ["Manufacturing Area", "Loading Docks", "Office Space", "Warehouse"],
+      "image":"https://i.postimg.cc/857mMDT7/pexels-divinetechygirl-1181408.jpg"
+    },
+    {
+      "id": 5,
+      "estate_title": "Restaurant Space in Entertainment Hub",
+      "segment_name": "Restaurants",
+      "description": "This prime restaurant space is situated in a vibrant entertainment hub, offering an excellent opportunity for high-traffic dining experiences. The property features a spacious dining area that can accommodate a significant number of guests, complemented by a well-equipped kitchen to handle diverse culinary operations. The restaurant includes modern restroom facilities and an outdoor seating area, enhancing the dining experience for customers. Its location within an entertainment district ensures a steady flow of visitors and provides a dynamic atmosphere that attracts a wide audience. The space is designed to support both casual and fine dining concepts, making it a versatile option for restaurateurs seeking to capitalize on a high-visibility location in a lively environment.",
+      "price": "$1,500,000",
+      "status": "Sell",
+      "area": "6000 sq ft",
+      "location": "Entertainment District, Metro City",
+      "facilities": ["Dining Area", "Kitchen", "Restrooms", "Outdoor Seating"],
+      "image": "https://i.postimg.cc/nhT4WMzs/pexels-janetrangdoan-1024248.jpg"
+    },
+    {
+      "id": 6,
+      "estate_title": "Luxury Showroom on Main Street",
+      "segment_name": "Retail Spaces",
+      "description": "This luxury showroom is prominently located on Main Street, providing high visibility and accessibility for upscale retail businesses. The space features an expansive showroom floor, allowing for a sophisticated display of high-end products. The property includes dedicated office space for administrative needs and modern restroom facilities for customer convenience. With its prime location, the showroom benefits from significant pedestrian and vehicular traffic, ensuring maximum exposure for luxury goods and automotive showrooms. The building's elegant design and high-quality finishes create an impressive environment that enhances the customer experience and reflects the prestige of the brands showcased.",
+      "price": "$2,500,000",
+      "status": "Sell",
+      "area": "7000 sq ft",
+      "location": "Main Street, Metro City",
+      "facilities": ["Showroom Floor", "Office Space", "Restroom", "Customer Parking"],
+      "image": "https://i.postimg.cc/7L63rDGK/pexels-pixabay-37347.jpg"
+    },
+    {
+      "id": 7,
+      "estate_title": "Downtown Co-working Space",
+      "segment_name": "Co-working Spaces",
+      "description": "This trendy co-working space is located in the downtown area, offering a modern and collaborative environment for freelancers, startups, and small businesses. The space features flexible workstations, private meeting rooms, and a comfortable lounge area. High-speed internet connectivity and access to essential office amenities, including a kitchen, make it an ideal choice for dynamic and entrepreneurial individuals. The co-working space is designed to foster creativity and networking, providing a supportive community for professionals. Its central location ensures easy access to nearby cafes, restaurants, and public transport, enhancing the overall work experience for its users.",
+      "price": "$5,000/month",
+      "status": "Rent",
+      "area": "3000 sq ft",
+      "location": "Downtown, City Center",
+      "facilities": ["Meeting Rooms", "Lounge Area", "High-Speed Internet", "Kitchen"],
+      "image": "https://i.postimg.cc/ZK8Frwzx/pexels-pixabay-416320.jpg"
+    },
+    {
+      "id": 8,
+      "estate_title": "Entertainment Venue in City Center",
+      "segment_name": "Entertainment Venues",
+      "description": "This expansive entertainment venue is located in the heart of the city center, making it an ideal location for hosting large-scale events, concerts, and performances. The facility features a spacious main stage, extensive seating arrangements, and a variety of concession stands. With a capacity to accommodate a significant number of attendees, it is designed to provide a memorable experience for both performers and guests. The venue includes ample parking space and is situated within a vibrant area, ensuring easy access for visitors. Its central location and robust infrastructure make it a premier choice for event organizers looking to host high-profile events in a dynamic and accessible setting.",
+      "price": "$3,000,000",
+      "status": "Sell",
+      "area": "20000 sq ft",
+      "location": "City Center, Metro City",
+      "facilities": ["Stage", "Seating Area", "Concession Stands", "Parking"],
+      "image": "https://i.postimg.cc/RZv1GwM5/pexels-proxyclick-2451566.jpg"
+    },
+    {
+      "id": 9,
+      "estate_title": "Medical Office in Health Complex",
+      "segment_name": "Medical Offices",
+      "description": "This state-of-the-art medical office is situated within a modern health complex, offering a well-equipped space for healthcare providers. The facility includes multiple examination rooms, a comfortable waiting area for patients, and a pharmacy for on-site medical supplies. Designed to meet the needs of medical professionals, the office is equipped with advanced medical equipment and provides a clean and professional environment. Its location within a health complex ensures close proximity to other healthcare services, enhancing patient convenience and operational efficiency. The property is ideal for clinics, dental practices, and other medical specialties seeking a prominent and functional space within a comprehensive health environment.",
+      "price": "$6,000/month",
+      "status": "Rent",
+      "area": "5000 sq ft",
+      "location": "Health Complex, Metro City",
+      "facilities": ["Examination Rooms", "Waiting Area", "Pharmacy", "Parking Lot"],
+      "image": "https://i.postimg.cc/Zn3PscBZ/pexels-proxyclick-2451616.jpg"
+    }
+  ]
+  
